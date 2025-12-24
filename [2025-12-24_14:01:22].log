@@ -1,0 +1,24 @@
+Total Used RAM : 0M
+Total system Swap : 0M
+Total Free Swap : 0M
+Total Used Swap : 0M
+Total read on sda : 387771793408M.
+Total Written on sda : 33554432M.
+Total read on sda1 : 381279010816M.
+Total Written on sda1 : 33554432M.
+Total read on nvme0n1 : 12100751589376M.
+Total Written on nvme0n1 : 20034801893376M.
+Total read on nvme0n1p1 : 11140071424M.
+Total Written on nvme0n1p1 : 0M.
+Total read on nvme0n1p2 : 19428016128M.
+Total Written on nvme0n1p2 : 4194304M.
+Total read on nvme0n1p3 : 11072962560M.
+Total Written on nvme0n1p3 : 0M.
+Total read on nvme0n1p4 : 71823261696M.
+Total Written on nvme0n1p4 : 0M.
+Total read on nvme0n1p5 : 11965325901824M.
+Total Written on nvme0n1p5 : 20034797699072M.
+Total read on nvme0n1p6 : 8975810560M.
+Total Written on nvme0n1p6 : 0M.
+Total read on zram0 : 6006243328M.
+Total Written on zram0 : 16777216M.

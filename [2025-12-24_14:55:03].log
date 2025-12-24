@@ -1,0 +1,36 @@
+General CPU usage : 1%
+CPU core 0 usage : 1%
+CPU core 1 usage : 1%
+CPU core 2 usage : 1%
+CPU core 3 usage : 1%
+CPU core 4 usage : 2%
+CPU core 5 usage : 1%
+CPU core 6 usage : 1%
+CPU core 7 usage : 1%
+CPU core 8 usage : 0%
+Total system RAM : 7617M
+Total Free RAM : 467M
+Total Used RAM : 7149M
+Total system Swap : 38467M
+Total Free Swap : 37078M
+Total Used Swap : 1389M
+Total read on sda : 90M.
+Total Written on sda : 0M.
+Total read on sda1 : 88M.
+Total Written on sda1 : 0M.
+Total read on nvme0n1 : 2904M.
+Total Written on nvme0n1 : 5505M.
+Total read on nvme0n1p1 : 2M.
+Total Written on nvme0n1p1 : 0M.
+Total read on nvme0n1p2 : 4M.
+Total Written on nvme0n1p2 : 0M.
+Total read on nvme0n1p3 : 2M.
+Total Written on nvme0n1p3 : 0M.
+Total read on nvme0n1p4 : 16M.
+Total Written on nvme0n1p4 : 0M.
+Total read on nvme0n1p5 : 2872M.
+Total Written on nvme0n1p5 : 5505M.
+Total read on nvme0n1p6 : 2M.
+Total Written on nvme0n1p6 : 0M.
+Total read on zram0 : 1M.
+Total Written on zram0 : 0M.
